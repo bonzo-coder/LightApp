@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="102.372 50.103 249.001 94.05" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="219.412" y1="60.339" x2="219.412" y2="87.366" id="gradient-1" gradientTransform="matrix(0.90399, -0.427554, 0.374462, 0.791734, -1.528797, 106.377155)">
+      <stop offset="0" style="stop-color: rgb(246, 122, 122);"/>
+      <stop offset="1" style="stop-color: rgb(255, 193, 0);"/>
+    </linearGradient>
+  </defs>
+  <rect x="176.251" y="60.339" width="86.321" height="27.027" style="stroke: rgb(0, 0, 0); fill: url('#gradient-1');"/>
+  <path d="M 220.463 65.824 L 273.328 131.001 L 167.598 131.001 L 220.463 65.824 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" bx:shape="triangle 167.598 65.824 105.73 65.177 0.5 0 1@f6e4b6b1"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="220.683" cy="124.616" rx="18.852" ry="12.043"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(136, 218, 85); paint-order: fill;" d="M 167.176 63.152 C 167.176 63.152 162.849 62.464 160.686 62.12 C 155.926 61.363 146.407 59.851 146.407 59.851"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 167.793 71.926 L 146.777 71.758"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 168.151 79.478 L 146.788 83.631"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 291.833 58.517 L 270.47 62.67"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 291.501 69.333 L 270.485 69.165"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 291.833 79.625 L 271.064 76.324"/>
+</svg>

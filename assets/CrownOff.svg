@@ -1,0 +1,12 @@
+
+<svg viewBox="102.372 50.103 249.001 94.05" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <rect x="176.251" y="60.339" width="86.321" height="27.027" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <path d="M 220.463 65.824 L 273.328 131.001 L 167.598 131.001 L 220.463 65.824 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" bx:shape="triangle 167.598 65.824 105.73 65.177 0.5 0 1@f6e4b6b1"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="220.683" cy="124.616" rx="18.852" ry="12.043"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 167.176 63.152 L 146.407 59.851"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 167.793 71.926 L 146.777 71.758"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 168.151 79.478 L 146.788 83.631"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 291.833 58.517 L 270.47 62.67"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 291.501 69.333 L 270.485 69.165"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 291.833 79.625 L 271.064 76.324"/>
+</svg>
